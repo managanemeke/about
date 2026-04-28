@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Home - Benjamin Ambrose</title>
+    <style>
+      /* load heading font */
+      @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400');
+      @import url('https://fonts.googleapis.com/css2?family=Oswald:ital,wght@400');
+      @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700');
+      @import url('https://fonts.googleapis.com/css2?family=Oswald:ital,wght@700');
+
+      /* load body font */
+      @import url('https://fonts.googleapis.com/css2?family=Maven Pro:wght@400');
+      @import url('https://fonts.googleapis.com/css2?family=Maven Pro:ital,wght@400');
+      @import url('https://fonts.googleapis.com/css2?family=Maven Pro:wght@700');
+      @import url('https://fonts.googleapis.com/css2?family=Maven Pro:ital,wght@700');
+
+      /* load mono font */
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains Mono:wght@400');
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains Mono:ital,wght@400');
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains Mono:wght@700');
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains Mono:ital,wght@700');
+
+      /* load emoji font */
+      @font-face {
+        font-family: "Noto Color Emoji";
+        src: url('assets/fonts/emoji/NotoColorEmoji-Regular.ttf');
+        font-weight: 400;
+      }
+  
+      :root {
+        /* colors */
+        --primary: #dd7878;
+        --secondary: #7287fd;
+        --tertiary: #dd7878;
+        /* shades */
+        --base: #24273a;
+        --mantle: #1e2030;
+        --crust: #181926;
+        --overlay: #9B9B9E;
+        --footer: #000000cc;
+        /* text */
+        --text: #c6d0f5;
+        --hltext: #24273a;
+        color: var(--text);
+        /* background-specific text */
+        --primary-text: var(--hltext);
+        --secondary-text: var(--hltext);
+        --tertiary-text: var(--hltext);
+        --base-text: var(--text);
+        --mantle-text: var(--text);
+        --crust-text: var(--text);
+        --overlay-text: var(--hltext);
+        --footer-text: var(--hltext);
+        /* fonts */
+        --heading: Oswald, Noto Color Emoji;
+        --body: Maven Pro, Noto Color Emoji;
+        --mono: JetBrains Mono, Noto Color Emoji;
+        font-family: var(--body); 
+      }
+      /* dark mode */
+      @media (prefers-color-scheme: dark) {
+        :root {
+          /* colors */
+          --primary: #dd7878;
+          --secondary: #7287fd;
+          --tertiary: #dd7878;
+          /* shades */
+          --base: #24273a;
+          --mantle: #1e2030;
+          --crust: #181926;
+          --overlay: #9B9B9E;
+          --footer: #00000022;
+          /* text */
+          --text: #c6d0f5;
+          --hltext: #24273a;
+          color: var(--text);
+          /* background-specific text */
+          --primary-text: var(--text);
+          --secondary-text: var(--text);
+          --tertiary-text: var(--text);
+          --base-text: var(--text);
+          --mantle-text: var(--text);
+          --crust-text: var(--text);
+          --overlay-text: var(--hltext);
+          --footer-text: var(--text);
+        }
+      }
+      /* style settings */
+      header#header {
+        grid-template-columns: 8rem auto 8rem;
+      }
+      body#background {
+        background: fixed center/cover url(assets/starmap.png);
+        
+        
+      }
+      #background-gradient {
+        background: linear-gradient(
+          45deg, 
+          color-mix(in srgb, var(--crust) 100%, transparent), color-mix(in srgb, var(--base) 80%, transparent)
+        );
+      }
+      content#content {
+        padding: 0 3rem;
+        background: color-mix(in srgb, var(--base) 0, transparent);
+        border-left: none;
+        border-right: none;
+      }
+      #avatar {
+        
+        border-radius: 50%;
+        
+      }
+      footer#footer a {
+        color: #7287fd;
+      }
+      footer#footer a:hover {
+        color: #dd7878;
+      }
+    </style>
+    <link rel="icon" type="image/x-icon" href=assets/landing-favicon.png>
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/responsivity.css" rel="stylesheet">  
+    <script src="search/main.js"></script>
+    <script src="https://kit.fontawesome.com/b57355f8ac.js" crossorigin="anonymous"></script>
+    <script id="altmetric-embed-js" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/altmetric_badges-e7ba41a192efc3e63f5d48f8a1916dec4b1b49c01075bc7b39481408957b3b28.js"></script>
+    <link id="altmetric-embed-css" rel="stylesheet" type="text/css" href="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed-59614f5c46b49b21eeef3bb28c4fb38d1e7069e8d014752fcb66e84942556802.css">
+    <script>
+      function on_share() {
+        navigator.share({
+          url: document.URL,
+          title: "Home -Benjamin Ambrose",
+        });
+      }
+    </script>
+</head>
+
+<body id="background">
+  <div id="background-gradient"></div>
+  <content id="content">
+  
+<a id="share-btn" onclick="on_share()">
+  <i class="fa fa-share-alt" alt="🔗"></i>
+</a>
+
+  
+  <header id="header">
+    
+    
+     
+    
+    <img id="avatar" src="assets/avatar.png" />
+    
+
+    
+    
+    
+     
+    <ul id="socials">
+        
+        
+        
+        
+        
+        <li>
+            <a href="mailto:b.ambrose@lms.mrc.ac.uk"><i class="fa-regular fa-at" alt="Email"></i></a>
+            <div class="social-label">Email</div>
+        </li>
+        
+        
+        
+        
+        
+        <li>
+            <a href="https://github.com/BenjaminAmbrose"><i class="fa-brands fa-github" alt="GitHub"></i></a>
+            <div class="social-label">GitHub</div>
+        </li>
+        
+        
+        
+        
+        
+        <li>
+            <a href="https://scholar.google.com/citations?user=q_Xfc3sAAAAJ&hl=en"><i class="fa-brands fa-google-scholar" alt="Google Scholar"></i></a>
+            <div class="social-label">Google Scholar</div>
+        </li>
+        
+    </ul>
+
+    
+    
+    
+     
+    <h1 id="title"><a href=.>Benjamin Ambrose</a></h1>
+
+    
+    
+    
+     
+    <p id="tagline">he/him /<a href="http://ipa-reader.xyz/?text=bɛnʤʌmɪn%20æmbrəʊz">bɛnʤʌmɪn æmbrəʊz</a>/</p>
+
+    
+    
+</header>
+  
+  <main id="page">
+    <nav class="vertical" id="toc">
+
+<ul>
+
+<li class="nav-item">
+<a href="#who-am-i">Who am I?</a>
+    
+    <ul>
+    
+    </ul>
+    
+</li>
+
+<li class="nav-item">
+<a href="#publications">Publications</a>
+    
+    <ul>
+    
+    
+    
+    
+    
+    </ul>
+    
+</li>
+
+<li class="nav-item">
+<a href="#employment">Employment</a>
+    
+    <ul>
+    
+    
+    
+    </ul>
+    
+</li>
+
+<li class="nav-item">
+<a href="#education">Education</a>
+    
+    <ul>
+    
+    
+    
+    
+    
+    </ul>
+    
+</li>
+
+</ul>
+
+</nav>
+    <h1 id="who-am-i">Who am I?</h1>
+<article>
+<p>-</p>
+</article>
+<h1 id="publications">Publications</h1>
+<article>
+<h3 id="precision-and-accuracy-of-single-molecule-fret-measurementsa-multi-laboratory-benchmark-study">Precision and accuracy of single-molecule FRET measurements—a multi-laboratory benchmark study.</h3>
+<p><strong><a href="https://www.nature.com/articles">Nature Methods</a></strong><br />
+<em>2018</em></p>
+<p>Single-molecule Förster resonance energy transfer (smFRET) is increasingly being used to determine distances, structures, and dynamics of biomolecules in vitro and in vivo. However, generalized protocols and FRET standards to ensure the reproducibility and accuracy of measurements of FRET efficiencies are currently lacking. Here we report the results of a comparative blind study in which 20 labs determined the FRET efficiencies (E) of several dye-labeled DNA duplexes. Using a unified, straightforward method, we obtained FRET efficiencies with s.d. between ±0.02 and ±0.05. We suggest experimental and computational procedures for converting FRET efficiencies into accurate distances, and discuss potential uncertainties in the experiment and the modeling. Our quantitative assessment of the reproducibility of intensity-based smFRET measurements and a unified correction procedure represents an important step toward the validation of distance networks, with the ultimate aim of achieving reliable structural models of biomolecular systems by smFRET-based hybrid methods.</p>
+<p><a href="https://doi.org/10.1038/s41592-018-0085-0">DOI: 10.1038/s41592-018-0085-0</a></p>
+</article>
+<article>
+<h3 id="fret-based-dynamic-structural-biology-challenges-perspectives-and-an-appeal-for-open-science-practices">FRET-based dynamic structural biology: Challenges, perspectives and an appeal for open-science practices</h3>
+<p><strong><a href="https://elifesciences.org/">eLife</a></strong><br />
+<em>2021</em></p>
+<p>Single-molecule FRET (smFRET) has become a mainstream technique for studying biomolecular structural dynamics. The rapid and wide adoption of smFRET experiments by an ever-increasing number of groups has generated significant progress in sample preparation, measurement procedures, data analysis, algorithms and documentation. Several labs that employ smFRET approaches have joined forces to inform the smFRET community about streamlining how to perform experiments and analyze results for obtaining quantitative information on biomolecular structure and dynamics. The recent efforts include blind tests to assess the accuracy and the precision of smFRET experiments among different labs using various procedures. These multi-lab studies have led to the development of smFRET procedures and documentation, which are important when submitting entries into the archiving system for integrative structure models, PDB-Dev. This position paper describes the current ‘state of the art’ from different perspectives, points to unresolved methodological issues for quantitative structural studies, provides a set of ‘soft recommendations’ about which an emerging consensus exists, and lists openly available resources for newcomers and seasoned practitioners. To make further progress, we strongly encourage ‘open science’ practices.</p>
+<p><a href="https://doi.org/10.7554/eLife.60416">DOI: 10.7554/eLife.60416</a></p>
+</article>
+<p><strong><a href="articles/publications/">View all...</a></strong></p>
+<h1 id="employment">Employment</h1>
+<article>
+<h3 id="phd">PhD</h3>
+<p><strong><a href="https://www.sheffield.ac.uk/">The University of Sheffield</a></strong><br />
+<em>2017 - 2022</em></p>
+<p><a href="articles/sheffield/">Read more...</a></p>
+</article>
+<h1 id="education">Education</h1>
+<article>
+<h3 id="phd-biophysics">PhD Biophysics</h3>
+<p><strong><a href="https://www.sheffield.ac.uk/">The University of Sheffield</a></strong><br />
+<em>September 2016 - December 2019?</em></p>
+<p>Thesis title: <br />
+<em>Ben's Thesis Title</em></p>
+<p><a href="articles/phd/">Read more...</a></p>
+</article>
+<article>
+<h3 id="bsc-biochemistry">BSc Biochemistry</h3>
+<p><strong><a href="https://www.sheffield.ac.uk/">The University of Sheffield</a></strong><br />
+<em>September 2012 - December 2015</em></p>
+<p>Dissertation title: <br />
+<em>Ben's Dissertation Title</em></p>
+</article>
+    <nav id="page-controls">
+      <a href="#content" id="return-top">
+        <i class="fa fa-arrow-up" alt="⇧"></i> Return to top
+      </a>
+    </nav>
+  </main>
+  </content>
+  <footer id="footer">
+    
+
+<p>Compiled from markdown using <a href="https://www.mkdocs.org/">MkDocs</a>, hosted via <a href="https://pages.github.com/">GitHub Pages</a>. Theme by <a href="https://toddparsons.co.uk">Todd Parsons</a>.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+<a id=page-source href=https://github.com/benjaminambrose/benambrose/><i class="fa-brands fa-github"></i> Page source</a>
+
+
+
+<script src="search/main.js"></script>
+
+  </footer>
+</body>
+
+</html>
