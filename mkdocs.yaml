@@ -15,13 +15,13 @@ theme:
   footer: |
       Compiled from markdown using [MkDocs](https://www.mkdocs.org/), hosted via [GitHub Pages](https://pages.github.com/). Theme by [Todd Parsons](https://toddparsons.co.uk).
   page_source: 
-    link: https://github.com/benjaminambrose/benambrose/
+    link: https://github.com/managanemeke/about/
   socials:
     - label: Email
       link: mailto:b.ambrose@lms.mrc.ac.uk
       icon: at
     - label: GitHub
-      link: https://github.com/BenjaminAmbrose
+      link: https://github.com/managanemeke
       icon: [brands, github]
     - label: Google Scholar
       link: https://scholar.google.com/citations?user=q_Xfc3sAAAAJ&hl=en
