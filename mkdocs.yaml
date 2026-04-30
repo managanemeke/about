@@ -23,9 +23,6 @@ theme:
     - label: GitHub
       link: https://github.com/managanemeke
       icon: [brands, github]
-    - label: Google Scholar
-      link: https://scholar.google.com/citations?user=q_Xfc3sAAAAJ&hl=en
-      icon: [brands, google-scholar]
   
   # style options
   header_layout:
