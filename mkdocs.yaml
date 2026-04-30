@@ -11,7 +11,7 @@ theme:
   background: fixed center/cover url(assets/starmap.png)
 
   tagline: |
-    he/him /[bɛnʤʌmɪn æmbrəʊz](http://ipa-reader.xyz/?text=bɛnʤʌmɪn%20æmbrəʊz)/
+    he/him /[nʲɪˈkʲitə kʊzʲnʲɪˈt͡sof](https://ipa-reader.com/?text=nʲɪˈkʲitə kʊzʲnʲɪˈt͡sof)
   footer: |
       Compiled from markdown using [MkDocs](https://www.mkdocs.org/), hosted via [GitHub Pages](https://pages.github.com/). Theme by [Todd Parsons](https://toddparsons.co.uk).
   page_source: 
