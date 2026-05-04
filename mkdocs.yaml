@@ -8,7 +8,7 @@ theme:
   name: landing
 
   avatar: assets/avatar.png
-  background: fixed center/cover url(assets/starmap.png)
+  background: "#2E183B"
 
   tagline: |
     he/him /[nʲɪˈkʲitə kʊzʲnʲɪˈt͡sof](https://ipa-reader.com/?text=nʲɪˈkʲitə kʊzʲnʲɪˈt͡sof)
