@@ -13,7 +13,8 @@ theme:
   tagline: |
     he/him /[nʲɪˈkʲitə kʊzʲnʲɪˈt͡sof](https://ipa-reader.com/?text=nʲɪˈkʲitə kʊzʲnʲɪˈt͡sof)
   footer: |
-      Compiled from markdown using [MkDocs](https://www.mkdocs.org/), hosted via [GitHub Pages](https://pages.github.com/).
+    Compiled from markdown using [MkDocs](https://www.mkdocs.org/),
+    hosted via [GitHub Pages](https://pages.github.com/).
   page_source: 
     link: https://github.com/managanemeke/about/
   socials:
