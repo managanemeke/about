@@ -33,11 +33,9 @@ Single-molecule FRET (smFRET) has become a mainstream technique for studying bio
 # Employment
 
 @@@
-### PhD
-**[The University of Sheffield](https://www.sheffield.ac.uk/)**
-*2017 - 2022*
-
-
+## Middle Developer
+**[The Maer Group](https://maergroup.ru/)**
+*2024 - 2026*
 @@@
 
 # Education
