@@ -38,6 +38,12 @@ Single-molecule FRET (smFRET) has become a mainstream technique for studying bio
 *2024 - 2026*
 @@@
 
+@@@
+## Junior Developer
+**[Tehnovizor](https://техновизор.рф/)**
+*2022 - 2024*
+@@@
+
 # Education
 @@@
 ### PhD Biophysics
