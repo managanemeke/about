@@ -57,22 +57,15 @@ Single-molecule FRET (smFRET) has become a mainstream technique for studying bio
 @@@
 
 # Education
+
 @@@
-### PhD Biophysics
-**[The University of Sheffield](https://www.sheffield.ac.uk/)**
-*September 2016 - December 2019?*
-
-Thesis title: 
-*Ben's Thesis Title*
-
-[Read more...](articles/phd/index.md)
+## Bachelor's Degree (Telecom Engineer)
+**[The Bonch-Bruevich St Petersburg State University of Telecommunications](https://www.sut.ru/)**
+*2015 - 2019*
 @@@
 
 @@@
-### BSc Biochemistry
-**[The University of Sheffield](https://www.sheffield.ac.uk/)**
-*September 2012 - December 2015*
-
-Dissertation title: 
-*Ben's Dissertation Title*
+## Secondary School
+**[Secondary comprehensive school #2](https://vvgymnaz2.nubex.ru/)**
+*2004 - 2015*
 @@@
