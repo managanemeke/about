@@ -2,9 +2,9 @@
 title: Home
 ---
 
-# Who am I?
+# About
 <article markdown="block">
--
+I'm going to be the freest!
 </article>
 
 # Projects
