@@ -10,6 +10,12 @@ I'm going to be the King of the Pirates!
 
 # Projects
 
+@@@
+## Mana
+**[mana](https://github.com/managanemeke/mana)**
+*All sense organs language*
+@@@
+
 # Employment
 
 @@@
