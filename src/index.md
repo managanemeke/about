@@ -4,7 +4,7 @@ title: Home
 
 # About
 <article markdown="block">
-I'm going to be the freest!
+I'm going to be the King of the Pirates!
 </article>
 
 # Projects
