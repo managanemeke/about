@@ -12,8 +12,7 @@ I'm going to be the King of the Pirates!
 
 @@@
 ## Mana
-**[mana](https://github.com/managanemeke/mana)**
-*All sense organs language*
+**[All sense organs language](https://github.com/managanemeke/mana)**
 @@@
 
 # Employment
