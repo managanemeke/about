@@ -20,6 +20,11 @@ I'm going to be the King of the Pirates!
 **[Different languages greeting butlers](https://github.com/managanemeke/butlers)**
 @@@
 
+@@@
+## Quotes
+**[Different languages intonation quotes](https://github.com/managanemeke/quotes)**
+@@@
+
 # Employment
 
 @@@
