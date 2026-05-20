@@ -69,3 +69,9 @@ I'm going to be the King of the Pirates!
 **[Secondary comprehensive school #2](https://vvgymnaz2.nubex.ru/)**
 *2004 - 2015*
 @@@
+
+@@@
+## Preschooler
+**[Kindergarten #6](https://yandex.ru/maps/org/detskiy_sad_6/1130044030)**
+*2000 - 2004*
+@@@
