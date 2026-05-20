@@ -75,3 +75,9 @@ I'm going to be the King of the Pirates!
 **[Kindergarten #6](https://yandex.ru/maps/org/detskiy_sad_6/1130044030)**
 *2000 - 2004*
 @@@
+
+@@@
+## Preschooler
+**[Kindergarten #6](https://yandex.ru/maps/org/detskiy_sad_6/1130044030)**
+*2000 - 2004*
+@@@
