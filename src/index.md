@@ -21,8 +21,8 @@ I'm going to be the King of the Pirates!
 @@@
 
 @@@
-## Quotes
-**[Different languages intonation quotes](https://github.com/managanemeke/quotes)**
+## Yasty
+**[Different languages intonation quotes](https://github.com/managanemeke/yasty)**
 @@@
 
 @@@
