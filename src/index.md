@@ -65,7 +65,7 @@ I'm going to be the King of the Pirates!
 @@@
 
 @@@
-## Secondary School
+## Secondary School (High schooler)
 **[Secondary comprehensive school #2](https://vvgymnaz2.nubex.ru/)**
 *2004 - 2015*
 @@@
